@@ -1,6 +1,6 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: skyblue; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: yellow; /* https://www.w3schools.com/colors/colors_names.asp */  
 	font-family: 'Open Sans', sans-serif;
 			}
 
@@ -33,7 +33,7 @@ div{/* selecciona el div y lo pinta */
 	}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
-	background-color: pink;
+	background-color: black;
 	width: 100%;
 	padding: 0px;
 	margin: 20px 0px;
